@@ -47,9 +47,14 @@ DevPortfolio is a mobile application developed with Unity 2023.1.0f1. It focuses
 DevPortfolio/
 ├── Assets/                   # Unity Assets (Scripts, Scenes, Prefabs, Materials, etc.)
 │   ├── Scripts/              # C# scripts
+|   ├── BlackholeFolder/      # Specific Assets for BlackholePhysics scene
+|   ├── EarthAR/              # Specific Assets for EarthModelAR and MarkerBased AR scene
+|   ├── Prefabs/              # Custom Prefabs
 │   ├── Scenes/               # Unity scenes
-│   ├── Models/               # 3D models
-│   └── Textures/             # Textures and materials
+│   ├── Settings/             # Settings for application
+|   ├── UI/                   # UI Elements
+|   |  ├── Images/            # Images for UI Elements
+│   └── TextMesh Pro/         # TextMesh Pro Assets
 ├── ProjectSettings/          # Unity project settings
 ├── Packages/                 # Unity packages and dependencies
 ├── .gitignore                # Git ignore rules
