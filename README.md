@@ -20,7 +20,7 @@ DevPortfolio is a mobile application developed with Unity 2023.1.0f1. It focuses
 ## Installation / Build Instructions
 
 ### Prerequisites
-- Unity 2023.1.0f1 installed (https://unity.com/releases/editor/2023.1.0)
+- Unity 6000.0.23f1 installed 
 - Android SDK & NDK (can be installed via Unity Hub)
 - ARCore supported Android device
 - Google ARCore package installed via Unity Package Manager
@@ -28,7 +28,7 @@ DevPortfolio is a mobile application developed with Unity 2023.1.0f1. It focuses
 
 ### Steps
 1. Clone or download this repository.
-2. Open the project in Unity 2023.1.0f1.
+2. Open the project in Unity 6000.0.23f1
 3. Make sure the Android platform is selected in **File > Build Settings**.
 4. Configure Player Settings for Android:
    - Minimum API Level: 24 or higher (required by ARCore)
@@ -43,11 +43,18 @@ DevPortfolio is a mobile application developed with Unity 2023.1.0f1. It focuses
 - Explore experimental features as they are developed.
 
 ## Project Structure
-- **Assets/** - All Unity assets including scripts, scenes, prefabs.
-- **Packages/** - Unity Package Manager dependencies.
-- **ProjectSettings/** - Unity project settings and configurations.
-- **Scenes/** - Unity scenes used in the app.
-- **Scripts/** - C# scripts for app logic and AR interactions.
+```
+DevPortfolio/
+├── Assets/                   # Unity Assets (Scripts, Scenes, Prefabs, Materials, etc.)
+│   ├── Scripts/              # C# scripts
+│   ├── Scenes/               # Unity scenes
+│   ├── Models/               # 3D models
+│   └── Textures/             # Textures and materials
+├── ProjectSettings/          # Unity project settings
+├── Packages/                 # Unity packages and dependencies
+├── .gitignore                # Git ignore rules
+├── README.md                 # This readme
+```
 
 ## Contributing
 This is a personal project and currently not open for external contributions. Feel free to reach out if you want to collaborate or have suggestions.
