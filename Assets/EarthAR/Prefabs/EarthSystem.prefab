@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7116668384001185527
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2058478442065301541, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_TagString
+      value: Moon
+      objectReference: {fileID: 0}
+    - target: {fileID: 4234787356554386239, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_TagString
+      value: Moon
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922352513669211196, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_Name
+      value: EarthSystem
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922352513669211196, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922352513669211196, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_TagString
+      value: EarthSystem
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.017353138
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.017353138
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.017353138
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.021
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.646
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447954648930549382, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359043753976946880, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_TagString
+      value: Earth
+      objectReference: {fileID: 0}
+    - target: {fileID: 8244327577375151657, guid: 8cda54ed433c2d54ab649f791b161abe,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8244327577375151657, guid: 8cda54ed433c2d54ab649f791b161abe, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8cda54ed433c2d54ab649f791b161abe, type: 3}
