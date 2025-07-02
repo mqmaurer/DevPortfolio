@@ -3,7 +3,7 @@
 A personal mobile app for testing and experimenting with my own ideas.
 
 ## Description
-DevPortfolio is a mobile application developed with Unity 2023.1.0f1. It focuses on augmented reality (AR), interactivity, and user-friendly design. The project serves as a platform to explore and develop new technologies and concepts, especially in the area of mobile AR using ARFoundation and Google ARCore for Android.
+DevPortfolio is a mobile application developed with Unity 6000.0.23f1. It focuses on augmented reality (AR), interactivity, and user-friendly design. The project serves as a platform to explore and develop new technologies and concepts, especially in the area of mobile AR using ARFoundation and Google ARCore for Android.
 
 ## Technologies
 - Unity 6000.0.23f1
@@ -15,7 +15,34 @@ DevPortfolio is a mobile application developed with Unity 2023.1.0f1. It focuses
 - Mobile AR applications with real-world environment tracking
 - Interactive user interfaces
 
-  
+### Scenes
+
+#### MainMenu
+- Central navigation hub of the app  
+- Allows switching between scenes  
+- Start main experience  
+- View About Me page  
+
+####Marker Based AR
+- Spawns an Earth Model on an Marker
+- UI speed control for rotation speed
+- **Usage:**  
+  Print the photo "Blue Marble" and place it wherever you want the Earth model to spawn. Alternatively, you can display the image on another device.  
+  While the Marker-Based AR scene is open, scan the picture with your device’s camera. The Earth model should spawn automatically.
+
+  **Marker Image:**  
+  ![Blue Marble](https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg)  
+  [Direct link to image](https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg)
+
+####Earth Model AR
+- Spawns and despawns the Earth model on button click
+- UI speed control for rotation speed
+
+#### Black Hole Physics (Work in Progress) – Not integrated into the application yet
+- Should simulate the physics of a black hole  
+- Planned: Particle system and physics implementation  
+- Planned: Shader Graph
+ 
 
 ## Installation / Build Instructions
 
