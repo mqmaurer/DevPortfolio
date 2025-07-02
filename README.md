@@ -23,7 +23,7 @@ DevPortfolio is a mobile application developed with Unity 6000.0.23f1. It focuse
 - Start main experience  
 - View About Me page  
 
-####Marker Based AR
+#### Marker Based AR
 - Spawns an Earth Model on an Marker
 - UI speed control for rotation speed
 - **Usage:**  
@@ -34,7 +34,7 @@ DevPortfolio is a mobile application developed with Unity 6000.0.23f1. It focuse
   ![Blue Marble](https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg)  
   [Direct link to image](https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg)
 
-####Earth Model AR
+#### Earth Model AR
 - Spawns and despawns the Earth model on button click
 - UI speed control for rotation speed
 
